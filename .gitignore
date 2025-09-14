@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+
+
+# dotenv environment files
+.env
+.env.*
+!.env.example
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+
+# Docker
+*.pid
+*.seed
+*.pid.lock
+.docker/
+
